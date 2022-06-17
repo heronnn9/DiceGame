@@ -1,0 +1,15 @@
+/Users/berkeakgun/Projects/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame
+/Users/berkeakgun/Projects/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.deps.json
+/Users/berkeakgun/Projects/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.runtimeconfig.json
+/Users/berkeakgun/Projects/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.dll
+/Users/berkeakgun/Projects/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.pdb
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.csproj.AssemblyReference.cache
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfoInputs.cache
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfo.cs
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.csproj.CoreCompileInputs.cache
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.dll
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/refint/DiceGame.dll
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.pdb
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.genruntimeconfig.cache
+/Users/berkeakgun/Projects/DiceGame/DiceGame/obj/Debug/net6.0/ref/DiceGame.dll
